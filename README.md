@@ -14,9 +14,6 @@ A browser-based drawing app where you can draw in the air using your finger.
 - MediaPipe Hands
 - Canvas API
 
-## Live Demo
-(Add GitHub Pages link here)
-
 ## Future Improvements
 - Color selection
 - Save drawing as image
